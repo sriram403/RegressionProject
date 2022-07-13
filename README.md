@@ -3,3 +3,5 @@
 
 
 I Also did a small blog on this if you want to check it out :)
+
+https://justdoitanything.hashnode.dev/my-first-regression-model
